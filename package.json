@@ -1,0 +1,16 @@
+{
+  "name": "fetcher-js-css",
+  "version": "1.0.5",
+  "description": "async load JS, async load CSS (tested on IE, Firefox, Chrome)",
+  "main": "fetcher.min.js",
+  "scripts": {
+    "test": "echo notest"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "async"
+  ],
+  "author": "Rosen Anastasov",
+  "license": "ISC"
+}
