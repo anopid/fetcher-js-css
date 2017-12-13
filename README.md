@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# fetcher-js-css
+This library implements a perform  async load of dependencies with JavaScript. It also works for stylesheets.
+======= 
 npm install fetcher-js-css
 
 fetcher = require('fetcher-js-css');
@@ -16,7 +18,6 @@ fetcher.loadScript("url", function () {
         // here you can load other script which depend of 1st one...
 		console.log('JS loaded')
 	});		
-=======
-# fetcher-js-css
-This library implements a perform  async load of dependencies with JavaScript. It also works for stylesheets.
->>>>>>> 969883ca0a72973e6897d27fe8ba03b87c41be4b
+
+
+
